@@ -7,4 +7,3 @@ for i in range(len(data)):
             s += int(data[i][0])*int(data[i][1])
 
 print(s)
-
